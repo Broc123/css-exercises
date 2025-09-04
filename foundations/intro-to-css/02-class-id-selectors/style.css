@@ -1,0 +1,22 @@
+p{
+    background-color: #e78888;
+    font-family: Verdana, "DejaVu Sans", sans-serifs;
+    
+}
+div{
+    color: #1729c9;
+    
+}
+#second{
+    font-size: 36px;
+}
+#third{
+    font-size: 24px;
+    color: black;
+}
+#fourth{
+    background-color: #50c918;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
